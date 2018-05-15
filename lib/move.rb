@@ -9,7 +9,7 @@ end
 # code your input_to_index and move method here!
 def input_to_index(x)
   x.to_i
-  y=x - 1
+  x - 1
 end
 
 board = [" ", " ", " "," ", " ", " "," ", " ", " "]
